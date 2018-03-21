@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecordButtonAnim</string>
+    <string name="path_square">M 35,43 v 34 A 8 8 0 0 0 43,85 h 34 A 8 8 0 0 0 85 77 v -34 A 8 8 0 0 0 77 35 h -34 A 8 8 0 0 0 35 43</string>
+    <string name="path_circle">M 0 60 v 0 A 60 60 0 0 0 60 120 h 0 A 60 60 0 0 0 120 60 v 0 A 60 60 0 0 0 60 0 h 0 A 60 60 0 0 0 0 60</string>
+    <string name="record_meeting">录制会议</string>
+    <string name="recording">录音中</string>
+</resources>
